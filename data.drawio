@@ -1,1 +1,40 @@
-<mxfile host="app.diagrams.net" modified="2020-05-15T20:47:14.504Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" version="13.1.1" etag="YZWXDkAcaMojzQXuIJCE" type="github"><diagram id="9SUARWRITcNEXeJYk-mT">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-05-15T20:49:54.565Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="9SYSlH24zBtqN-oaXAUN" version="13.1.1" type="github">
+  <diagram id="9SUARWRITcNEXeJYk-mT" name="Page-1">
+    <mxGraphModel dx="1038" dy="499" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="HPvJ284oeiDDK9sDpt0f-1" value="&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;Vehicle_ID&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HPvJ284oeiDDK9sDpt0f-2" value="&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;RSU_ID&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HPvJ284oeiDDK9sDpt0f-3" value="&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;DATA&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HPvJ284oeiDDK9sDpt0f-4" value="&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;TH&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HPvJ284oeiDDK9sDpt0f-5" value="" style="endArrow=none;html=1;entryX=1;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="HPvJ284oeiDDK9sDpt0f-7" target="HPvJ284oeiDDK9sDpt0f-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="220" y="380" as="sourcePoint" />
+            <mxPoint x="270" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HPvJ284oeiDDK9sDpt0f-6" value="" style="endArrow=none;html=1;entryX=1;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="HPvJ284oeiDDK9sDpt0f-8" target="HPvJ284oeiDDK9sDpt0f-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="90" y="440" as="sourcePoint" />
+            <mxPoint x="140" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HPvJ284oeiDDK9sDpt0f-7" value="&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;TS&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HPvJ284oeiDDK9sDpt0f-8" value="&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;VAL&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
